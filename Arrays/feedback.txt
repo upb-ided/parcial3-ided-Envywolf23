@@ -1,0 +1,24 @@
+Punto 1(AddMatrix)
+* La validación es incorrecta (se deben validar todas las dimensiones de ambas matrices, no solo las columnas)
+* La iteración es incorrecta. En una matriz cuadrada funcionaría, pero en dos no cuadradas fallaría, puesto que solo tiene en cuenta la primera dimensión para iterar.
+* La instrucción que aplica la operación es correcta.
+* Para qué 'matrixC'?
+Total: 0.6 / 1.0
+
+Punto 2(MultiplyMatrixByScalar)
+* Es válido inicializar la matriz resultado como la parámetro, puesto que ambas tendrán la misma dimensión.
+* La instrucción que aplica la operación es correcta.
+* La última instrucción debajo de las iteraciones sobreescribe la matriz 'result'. El algoritmo siempre devolverá la matriz original.
+Total: 0.6 / 1.0
+
+Punto 3(MultiplyMatrices)
+* La validación de las matrices es correcta.
+* La inicialización de la matriz 'result' es correcta.
+* Toda la operación es incorrecta. El producto de matrices no es el producto uno a uno de los elementos.
+Total: 1.0 / 2.0
+
+Punto 4(MixMatrix)
+* No presenta solución.
+Total: 0.0 / 1.0
+
+Total evaluación: 2.2 / 5.0
