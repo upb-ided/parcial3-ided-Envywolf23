@@ -10,7 +10,8 @@ Punto 2(MultiplyMatrixByScalar)
 * La instrucción que aplica la operación es correcta.
 * La última instrucción debajo de las iteraciones sobreescribe la matriz 'result'. El algoritmo siempre devolverá la matriz original.
 [EDIT]: La última anotación es incorrecta. La operación se hace sobre 'matrix' y al final se asinga a 'result', por lo que es correcta.
-Total: 1.0 / 1.0
+Total: 0.6 / 1.0
+[EDIT]Total: 1.0 / 1.0
 
 Punto 3(MultiplyMatrices)
 * La validación de las matrices es correcta.
@@ -23,3 +24,4 @@ Punto 4(MixMatrix)
 Total: 0.0 / 1.0
 
 Total evaluación: 2.2 / 5.0
+[EDIT] Total evaluación: 2.6 / 5.0
