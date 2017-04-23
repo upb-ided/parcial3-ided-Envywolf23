@@ -9,7 +9,8 @@ Punto 2(MultiplyMatrixByScalar)
 * Es válido inicializar la matriz resultado como la parámetro, puesto que ambas tendrán la misma dimensión.
 * La instrucción que aplica la operación es correcta.
 * La última instrucción debajo de las iteraciones sobreescribe la matriz 'result'. El algoritmo siempre devolverá la matriz original.
-Total: 0.6 / 1.0
+[EDIT]: La última anotación es incorrecta. La operación se hace sobre 'matrix' y al final se asinga a 'result', por lo que es correcta.
+Total: 1.0 / 1.0
 
 Punto 3(MultiplyMatrices)
 * La validación de las matrices es correcta.
